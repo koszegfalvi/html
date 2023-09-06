@@ -1,7 +1,7 @@
 # html
 Lásd el HTML tagekkel az alább megadott forrásszöveget a kép alapján!
 Elvárt megoldás:
-![Feladat](res/beerPage.png)
+![Feladat](res/beerPage.PNG)
 A `res` mappában `beerPage.PNG`-ként is megtalálod!
 
 **FONTOS**: attól még, hogy HTML tag-eket írunk, az nem eredményez formázott oldalt,
